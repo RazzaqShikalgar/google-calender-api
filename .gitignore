@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+# Credentials
+creds.json
+
+# Pipenv
+Pipfile.lock
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store
